@@ -4,8 +4,8 @@ description: >-
   Blog sobre a aventura de estudar Licenciatura em Matemática e
   Aplicações(LMeA) na Universidade Aberta(UAb).
   Apontamentos, comentários e muito mais.
-baseurl: ""
-url: "https://cpmachado.github.io/uab"
+baseurl: "/uab"
+url: "https://cpmachado.github.io"
 github_username:  cpmachado
 
 show_excerpts: true
