@@ -1,0 +1,43 @@
+title: UAb por cpmachado
+email: 2200909@estudante.uab.pt
+description: >-
+  Blog sobre a aventura de estudar Licenciatura em Matemática e
+  Aplicações(LMeA) na Universidade Aberta(UAb).
+  Apontamentos, comentários e muito mais.
+baseurl: ""
+url: "https://cpmachado.github.io/uab"
+github_username:  cpmachado
+
+show_excerpts: true
+
+defaults:
+  -
+    scope:
+      path: "_posts"
+    values:
+      permalink: "/:categories/:title"
+
+markdown: kramdown
+remote_theme: riggraz/no-style-please
+favicon: ./images/favicon.png
+
+theme_config:
+  appearance: "light"
+  back_home_text: "127.0.0.1"
+  show_description: true
+
+
+plugins:
+  - jekyll-feed
+
+feed:
+  categories:
+    - geral
+    - s1
+    - al1
+    - eai1
+    - hm
+    - latex
+    - ltc
+    - matprep
+    - prog

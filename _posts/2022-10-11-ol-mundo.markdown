@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Olá Mundo!"
+date: "2022-10-11 23:09:20 +0100"
+categories: geral
+---
+
+>
+> O binómio de Newton é tão belo como a Vénus de Milo.
+>
+> O que há é pouca gente para dar por isso.
+>
+> (...)
+>
+> -- Álvaro de Campos
+
+---
+
+Esta página pretende documentar o meu caminho pelo curso de **Licenciatura em
+Matemática e Aplicações**([LMeA]), na **Universidade Aberta**([UAb]).
+
+## O que se entende por documentar?
+
+Documentar, neste sentido, é ser um arquivo de notas, exercícios resolvidos,
+meditações e outros. Basicamente, é um diário e uma biblioteca do conhecimento
+acumulado no decorrer do curso.
+
+## Motivação
+
+A minha principal motivação é ter um corpo de conhecimento que posso pesquisar
+eficientemente.
+
+Em segundo lugar, pretendo forçar-me a escrever e a racionalizar sobre o
+conhecimento adquirido, de modo a capacitar-me mais eficazmente.
+
+Em terceiro lugar, pretendo tornar esse conhecimento em informação aberta, de
+modo a que alguma pobre alma possa talvez beneficiar do que deixo aqui.
+
+
+[LMeA]: https://guiadoscursos.uab.pt/cursos/licenciatura-em-matematica-e-aplicacoes/
+[UAb]: https://portal.uab.pt
+
