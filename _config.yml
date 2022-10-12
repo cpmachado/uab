@@ -20,9 +20,13 @@ defaults:
     values:
       permalink: "/:categories/:title"
 
-markdown: kramdown
 remote_theme: riggraz/no-style-please
 favicon: ./images/favicon.png
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+    input: GFM
 
 theme_config:
   appearance: "light"

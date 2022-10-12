@@ -10,7 +10,7 @@ entries:
   - title: categorias
     url: categorias
 
-  - title: rss
+  - title: atom feed
     url: feed.xml
 
   - title: sobre

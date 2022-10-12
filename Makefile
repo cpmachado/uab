@@ -2,6 +2,11 @@
 
 all: serve
 
+build:
+	JEKYLL_ENV=production bundle exec jekyll build --trace
+
+clean:
+	bundle exec jekyll clean
 
 install:
 	bundle install
