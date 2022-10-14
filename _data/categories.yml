@@ -1,0 +1,45 @@
+geral:
+  tag: "geral"
+  name: "Geral"
+  archive: "/geral" 
+  top: true
+s1:
+  tag: "s1"
+  name: "Semestre 1"
+  archive: "/s1" 
+  top: true
+al1:
+  tag: "al1"
+  name: "Álgebra Linear I"
+  archive: "/s1/al1"
+  parent: "s1"
+eai1:
+  tag: "eai1"
+  name: "Elementos de Análise Infinitesimal I"
+  archive: "/s1/eai1"
+  parent: "s1"
+hm:
+  tag: "hm"
+  name: "História da Matemática"
+  archive: "/s1/hm" 
+  parent: "s1"
+latex:
+  tag: "latex"
+  name: "LaTeX"
+  archive: "/s1/latex" 
+  parent: "s1"
+ltc:
+  tag: "ltc"
+  name: "Lógica e Teoria de Conjuntos"
+  archive: "/s1/ltc" 
+  parent: "s1"
+matprep:
+  tag: "matprep"
+  name: "Matemática Preparatória"
+  archive: "/s1/matprep" 
+  parent: "s1"
+prog:
+  tag: "prog"
+  name: "Programação"
+  archive: "/s1/prog"
+  parent: "s1"
