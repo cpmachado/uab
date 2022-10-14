@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+{%-include back_link.html-%}
+
+<h1>{{ page.title }}</h1>
+
+{% assign subcategories = site.data.categories | where: "parent",page.which_category %}
+{% if subcategories.size > 0 %}
+  <h2>Subcategorias:</h2>
+
+  <ul>
+  {% for category in subcategories %}
+    {% assign tag = category.tag %}
+    {% assign name = category.name %}
+    {% assign archive = category.archive | prepend: site.baseurl %}
+
+    <li><a href={{archive}}>{{name}}</a></li>
+  {% endfor %}
+  </ul>
+{% endif %}
+
+<h2> Publicações </h2>
+
+{%-include post_list.html category=page.which_category-%}
