@@ -43,3 +43,9 @@ prog:
   name: "Programação"
   archive: "/s1/prog"
   parent: "s1"
+
+matprep_ficha1:
+  tag: "matprep_ficha1"
+  name: "Matemática Preparatória - Ficha 1"
+  archive: "/s1/matprep/ficha1"
+  parent: "matprep"
