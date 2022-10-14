@@ -1,0 +1,19 @@
+{% assign categories = include.category %}
+
+{% if categories %}
+  {% if categories.first %}
+    <p>
+    Categories: [
+      {% for postCategory in categories %}
+        {% assign archive = site.data.categories[postCategory].archive | prepend: site.baseurl %}
+        <span>:<a href={{archive}}>{{postCategory}}</a>:</span>
+      {% endfor %}
+    ]
+    </p>
+
+  {% else %}
+    {% assign postCategory = categories %}
+    {% assign archive = site.data.categories[postCategory].archive | prepend: site.baseurl %}
+    <p> Category: <span>:<a href={{archive}}>{{postCategory}}</a>:</span></p>
+  {% endif %}
+{% endif %}
