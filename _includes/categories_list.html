@@ -3,7 +3,7 @@
 {% if categories %}
   {% if categories.first %}
     <p>
-    Categories: [
+    Categorias: [
       {% for postCategory in categories %}
         {% assign archive = site.data.categories[postCategory].archive | prepend: site.baseurl %}
         <span>:<a href={{archive}}>{{postCategory}}</a>:</span>
@@ -14,6 +14,6 @@
   {% else %}
     {% assign postCategory = categories %}
     {% assign archive = site.data.categories[postCategory].archive | prepend: site.baseurl %}
-    <p> Category: <span>:<a href={{archive}}>{{postCategory}}</a>:</span></p>
+    <p> Categoria: <span>:<a href={{archive}}>{{postCategory}}</a>:</span></p>
   {% endif %}
 {% endif %}

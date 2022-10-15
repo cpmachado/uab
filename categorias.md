@@ -7,7 +7,7 @@ permalink: /categorias
 {% assign categories = site.data.categories %}
 {% assign topCategories = categories | where: "top", true %}
 
-List of Categories:
+Lista de categorias:
 {% for category in topCategories %}
   {% assign tag = category.tag %}
   {% assign name = category.name %}
