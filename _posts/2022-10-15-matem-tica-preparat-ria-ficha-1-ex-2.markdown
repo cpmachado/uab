@@ -11,7 +11,7 @@ Resolução do exercício 2 da Ficha
 
 ## 2
 
-### a) $$(7^2)^3 \div 7^3 \cdot \left(\frac{1}{7}\right)^3 + 2^3$$
+### a)
 
 $$
   \begin{aligned}
@@ -23,7 +23,7 @@ $$
   \end{aligned}
 $$
 
-### b) $$\left(\frac{2}{3}\right)^4 \div \left(\frac{2}{3}\right)^2 \cdot \left(-\frac{1}{3}\right)^2$$
+### b)
 
 $$
   \begin{aligned}
@@ -38,7 +38,7 @@ $$
 $$
 
 
-### c) $$(-1)^{325} \cdot (-5)^3 \cdot \left(\frac{1}{5}\right)^3 \div \left(\frac{1}{3}\right)^3$$
+### c)
 
 $$
   \begin{aligned}
@@ -48,3 +48,8 @@ $$
     &= 27\\
   \end{aligned}
 $$
+
+---
+
+Editado a:
+- 2022-10-22 10:43:27 +0100, retirar equações de alíneas

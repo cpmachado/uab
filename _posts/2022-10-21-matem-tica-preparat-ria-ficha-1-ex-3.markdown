@@ -11,7 +11,7 @@ Resolução do exercício 3 da Ficha
 
 ## 3
 
-### a) $$\sqrt[3]{0,027}$$
+### a)
 
 $$
     \begin{aligned}
@@ -22,7 +22,7 @@ $$
     \end{aligned}
 $$
 
-### b) $$\sqrt{\left(\frac{9}{25}\right)^4}$$
+### b)
 
 $$
     \begin{aligned}
@@ -33,7 +33,7 @@ $$
 $$
 
 
-### c) $$\left(\frac{2}{5}\right)^4 \div \left(\frac{2}{5}\right)^2 \cdot \sqrt[3]{27} + 4 \cdot \sqrt[3]{0,001}$$
+### c)
 
 $$
     \begin{aligned}
@@ -50,3 +50,8 @@ $$
      &=\frac{22}{25} \\
     \end{aligned}
 $$
+
+---
+
+Editado a:
+- 2022-10-22 10:43:27 +0100, retirar equações de alíneas
