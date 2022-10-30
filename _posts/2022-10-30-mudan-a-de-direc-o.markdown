@@ -21,9 +21,9 @@ Em vez de ir pela extensão, hei de ir por um sistema em compreensão.
 ## Mudança de direcção
 
 Pensei originalmente passar a LaTeX tudo o que resolvia nos meus cadernos. Só
-este mês vamos em algumas centenas. Não é comportável.
+neste mês vamos em algumas centenas. Não é comportável.
 
 Desta forma, vou cingir-me a meditações sobre a matéria que estudo e aos
-pontos mais importantes, como as minhas avaliações. Com notas sobre nuances de
-resolução em cada uma das mencionadas.
+pontos mais importantes, como as minhas avaliações. Complementando isto com 
+notas sobre nuances de resolução em cada uma das mencionadas.
 
